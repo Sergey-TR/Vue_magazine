@@ -94,6 +94,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+.center {
+  padding: 0 calc(50% - 570px);
+}
+
 header {
   position: fixed;
   top: 0px !important;
